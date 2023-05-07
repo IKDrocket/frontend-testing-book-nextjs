@@ -1,7 +1,6 @@
 .module {
   display: inline-block;
   padding: 0.5em 2em;
-  /* border-radius: 1em; */
   text-align: center;
   cursor: pointer;
   user-select: none;
